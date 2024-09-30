@@ -5,7 +5,6 @@ This project is a simple responsive landing page created using HTML, CSS, and Ja
 
 ## Features
 - **Responsive Design**: Adapts to different screen sizes and orientations.
-- **Modern UI/UX**: Clean and user-friendly interface.
 - **Interactive Elements**: Includes JavaScript for dynamic content and interactions.
 - **Cross-Browser Compatibility**: Works on all major browsers (Chrome, Firefox, Safari, Edge).
 
